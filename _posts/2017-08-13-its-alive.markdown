@@ -4,4 +4,4 @@ title:  "IT'S ALIVE!"
 date:   2017-08-13 19:50:31 +0100
 categories: jekyll update
 ---
-It only took ten months, but I have finaly got around to publishing the Jekyll blog I promised back in October of last year when I first bought this domain. It's a little bland and bare at the moment, but I promise that will change over the coming weeks. *fingers crossed*
+Whatch this space.
